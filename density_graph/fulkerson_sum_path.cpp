@@ -1,5 +1,5 @@
 // Author : Muhammad Rifayat Samee
-// Problem : ford fulkerson fattest path
+// Problem : ford fulkerson sum path
 // Algorithm:
 
 #pragma warning (disable : 4786)
